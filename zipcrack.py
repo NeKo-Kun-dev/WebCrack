@@ -13,7 +13,7 @@ banner += ' # T.me/Neko_Blog              #\n'
 banner += ' ###################################\n'
 banner += ' [1] ZipCracker\n'
 banner += ' [0] Exit\n'
-print banner
+print (banner)
 
 a=input(" [?] Enter Number : ")
 if a==0:
